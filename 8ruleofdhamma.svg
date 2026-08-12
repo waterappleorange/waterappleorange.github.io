@@ -4,7 +4,7 @@
     <!-- အပြင်ဘက် စက်ဝိုင်းကွင်း (stroke-width: 9.0 သို့ ပြောင်းထားသည်) -->
     <circle cx="50" cy="50" r="32" fill="none" stroke-width="9.0"/>
 
-    <!-- ဝင်ရိုးချောင်း ၈ ချောင်း (stroke-width: 9.0) -->
+    <!-- ဝင်ရိုးချောင်း ၈ ချောင်း (stroke-width: 9.0) 1-->
     <g fill="none" stroke-width="9.0" stroke-linecap="round">
       <path d="M 50,50 Q 55,30 50,10"/>
       <path d="M 50,50 Q 70,55 90,50"/>
